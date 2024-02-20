@@ -1,3 +1,10 @@
-# Expensetracker
-A flutter based app for tracking the expenses of our day to day life
-With the use of flutter you can A single code to run on various platform
+# expensetracker
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+
+
